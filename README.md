@@ -3,6 +3,10 @@
 #You will need to amend this to suit your own development needs.
 #Use when preping the code for use with phoneGap Build: https://build.phonegap.com/
 
+#APK emulator: https://appetize.io/
+
+
+
 
 #ZIP up your prototype directories, along with the config.xml file, then upload to phonegap build.
 
